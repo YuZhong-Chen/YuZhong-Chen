@@ -1,10 +1,22 @@
-### Hi, I'm YuZhong-Chen.
-
-<hr>
-
-📈 GitHub Stats
 <p align="center">
-  <table>
+Hi, I'm YuZhong-Chen.
+</p>
+  
+<br>
+<br>
+<p align="center">
+🖥️ I'm coding my dream. 🖥️
+</p>
+
+<br>
+<br>
+
+<p align="left">
+📈 GitHub Stats 
+</p>  
+
+<p align="center">
+  <table border="0">
     <tr>
       <td>
         <a href="https://github.com/YuZhong-Chen/">
@@ -29,14 +41,21 @@
   </table>
 </p>
 
-<a href="https://github.com/YuZhong-Chen"><img src="https://activity-graph.herokuapp.com/graph?username=YuZhong-Chen&theme=react-dark" /></a>
+<a href="https://github.com/YuZhong-Chen">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YuZhong-Chen&theme=noctis-minimus&hide_border=true&color=718CA1&bg_color=1D252C" />
+</a>
 
-<hr>
+<br>
+<br>
 
-🛠️ Skill<br>
+🛠️ Skill
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<hr>
+📺 Development Environment
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=dark)
