@@ -1,15 +1,12 @@
 <p align="center">
   Hi, I'm YuZhong-Chen.
-<br>
-  Nice to meet you!
-</p>
 
 <br>
 <p align="center">
   🖥️ I'm coding my dream. 🖥️
 <br>
 <br>
-  😊 How about you ? 😊
+  😊 Nice to meet you! 😊
 </p>
 
 <br>
