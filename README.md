@@ -23,7 +23,7 @@
         <a href="https://github.com/YuZhong-Chen/">
           <img 
             align="center" 
-            src="https://github-readme-stats.vercel.app/api?username=YuZhong-Chen&show_icons=true&include_all_commits=true&hide_border=true&theme=city_lights&hide=prs,issues,contribs&count_private=true" 
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuZhong-Chen&show_icons=true&include_all_commits=true&hide_border=true&theme=city_lights&hide=prs,issues,contribs&count_private=true" 
             alt="YuZhong-Chen's Github Stats" 
             height="180rem"
           />
@@ -33,7 +33,7 @@
         <a href="https://github.com/YuZhong-Chen">
           <img 
             align="center" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhong-Chen&layout=compact&hide_border=true&theme=city_lights" 
+            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YuZhong-Chen&layout=compact&hide_border=true&theme=city_lights" 
             height="180rem"
           />
         </a>
@@ -53,7 +53,6 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
