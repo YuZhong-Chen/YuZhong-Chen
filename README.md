@@ -17,23 +17,23 @@
 </p>  
 
 <p align="center">
-  <table border="0">
-    <tr>
-      <td>
+  <table border="none" rules="none">
+    <tr border="none">
+      <td border="none">
         <a href="https://github.com/YuZhong-Chen/">
           <img 
             align="center" 
-            src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuZhong-Chen&show_icons=true&include_all_commits=true&hide_border=true&theme=city_lights&hide=prs,issues,contribs&count_private=true" 
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuZhong-Chen&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true&hide=prs,issues,contribs&count_private=true"
             alt="YuZhong-Chen's Github Stats" 
             height="180rem"
           />
         </a>
       </td>
-      <td> 
+      <td border="none"> 
         <a href="https://github.com/YuZhong-Chen">
           <img 
             align="center" 
-            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YuZhong-Chen&layout=compact&hide_border=true&theme=city_lights" 
+            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YuZhong-Chen&layout=compact&hide_border=true&theme=prussian" 
             height="180rem"
           />
         </a>
@@ -43,7 +43,7 @@
 </p>
 
 <a href="https://github.com/YuZhong-Chen">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YuZhong-Chen&theme=noctis-minimus&hide_border=true&color=718CA1&bg_color=1D252C" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YuZhong-Chen&theme=noctis-minimus&hide_border=true&color=718CA1&bg_color=1D252C" />
 </a>
 
 <br>
